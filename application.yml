@@ -1,0 +1,4 @@
+ca: 
+ springcloud: 
+          book: 
+            defaultUser: mchen-default
